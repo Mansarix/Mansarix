@@ -1,30 +1,43 @@
-# Hi, I'm Mahmoud Ansari
+# Hi, I'm Mahmood Ansari 👋
 
-Full Stack .NET Developer with experience in backend architecture, SaaS systems, microservices, and scalable web applications.  
-Technical author, open-source contributor, and software engineering enthusiast.
+Full Stack .NET Developer focused on building scalable web applications, SaaS platforms, and developer tools.
 
-## Featured Article
+## About Me
+
+- Full Stack .NET Developer
+- Technical Author
+- Interested in scalable software architecture, SaaS systems, and productivity tools
+- Building practical projects with clean architecture and maintainable code
+
+## Featured Work
+
+### Technical Article
 - [Designing Scalable Multi-Tenant SaaS Applications](https://dev.to/mansarix/designing-scalable-multi-tenant-saas-applications-3gap)
 
-## Books
-- آموزش جامع طراحی وب
-- آموزش جامع سی شارپ
-- چرخه تولید نرم افزار با مایکروسافت اژور
-
-## Open Source Projects
-- Sisha_UI_Kit
-- Sisha_Code_Generator(
-- Sisha_Core_Arc
+### Projects
+- [sisha_ui_kit](https://github.com/Mansarix/sisha_ui_kit) — A reusable UI kit for building modern web interfaces
+- [sisha_Code_Generator](https://github.com/Mansarix/sisha_Code_Generator) — A code generator for scaffolding admin panel applications with layered architecture
 
 ## Tech Stack
-- .NET / ASP.NET Core
-- SQL Server
-- Angular
-- Microservices
-- Docker
-- Azure CI/CD
 
-## Connect with Me
-- Website: [MahmoodAnsari.ir](#)
-- GitHub: [drsonador](https://github.com/drsonador)
-- Email: dr.sonador@gmail.com
+- .NET / ASP.NET Core
+- C#
+- SQL Server
+- Entity Framework Core
+- JavaScript
+- HTML / CSS
+- Git / GitHub
+
+## Writing & Publications
+
+I write about software architecture, SaaS development, and engineering practices.
+
+- [Read my article on Dev.to](https://dev.to/mansarix/designing-scalable-multi-tenant-saas-applications-3gap)
+
+## Connect With Me
+
+- Website: [mahmoodAnsari.ir](http://mahmoodAnsari.ir)
+- GitHub: [github.com/Mansarix](https://github.com/Mansarix)
+
+---
+> Building software, writing technical content, and sharing practical solutions.
