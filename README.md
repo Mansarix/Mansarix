@@ -36,15 +36,9 @@ I also write technical content and publish programming books.
   https://dev.to/mansarix/designing-scalable-multi-tenant-saas-applications-3gap
 
 ### Books
-- **آموزش جامع طراحی وب** (Digikala)  
-  https://www.digikala.com/product/dkp-16748742/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%88%D8%A8-html-css-javascript-jquery-bootstrap-%D8%A7%D8%AB%D8%B1-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%DB%8C-%D9%86%D8%B4%D8%B1-%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%D8%A7%D9%86
-
-- **آموزش جامع سی شارپ** (Taaghche)  
-  https://taaghche.com/book/213295/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%88%D8%A8
-
-- **چرخه تولید نرم افزار با مایکروسافت اژور** (ICFI)  
-  https://book.icfi.ir/book/0208185a-9da1-42d1-a7f6-d46745da2573/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%88%D8%A8-html-css-javascript-jquery-bootstrap
-
+- **[آموزش جامع طراحی وب](https://dgkl.io/api/v1/Click/b/pcEUF?b64=aHR0cHM6Ly93d3cuZGlnaWthbGEuY29tL3Byb2R1Y3QvZGtwLTE2NzQ4NzQyLyVEOCVBMiVEOSU4NSVEOSU4OCVEOCVCMiVEOCVCNC0lRDglQUMlRDglQTclRDklODUlRDglQjktJUQ4JUI3JUQ4JUIxJUQ4JUE3JUQ4JUFEJURCJThDLSVEOSU4OCVEOCVBOC1odG1sLWNzcy1qYXZhc2NyaXB0LWpxdWVyeS1ib290c3RyYXAtJUQ4JUE3JUQ4JUFCJUQ4JUIxLSVEOSU4NSVEOCVBRCVEOSU4NSVEOSU4OCVEOCVBRi0lRDglQTclRDklODYlRDglQjUlRDglQTclRDglQjElREIlOEMtJUQ5JTg2JUQ4JUI0JUQ4JUIxLSVEOSU4NSVEOCVBQSVEOCVBRSVEOCVCNSVEOCVCNSVEOCVBNyVEOSU4Ng==)**
+- **[آموزش جامع سی شارپ](https://taaghche.com/book/213295/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%88%D8%A8)**
+- **[چرخه تولید نرم افزار با مایکروسافت اژور](https://book.icfi.ir/book/0208185a-9da1-42d1-a7f6-d46745da2573/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%88%D8%A8-html-css-javascript-jquery-bootstrap)**
 ---
 
 ## 🚀 Featured Projects
