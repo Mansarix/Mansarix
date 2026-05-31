@@ -39,9 +39,9 @@ My interests include:
 
 I have written three programming books:
 
-- **[آموزش جامع طراحی وب](#)**  
-- **[آموزش جامع سی شارپ](#)**  
-- **[چرخه تولید نرم افزار با مایکروسافت اژور](#)**  
+- **[آموزش جامع طراحی وب](https://taaghche.com/book/213295/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%88%D8%A8)**  
+- **[آموزش جامع سی شارپ](https://book.icfi.ir/book/0208185a-9da1-42d1-a7f6-d46745da2573/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%88%D8%A8-html-css-javascript-jquery-bootstrap)**  
+- **[چرخه تولید نرم افزار با مایکروسافت اژور](https://taaghche.com/book/213295/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%88%D8%A8)**  
 
 I also publish technical articles, including:
 
@@ -67,9 +67,6 @@ A reusable UI kit for building clean, modern, and consistent web interfaces.
   <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
