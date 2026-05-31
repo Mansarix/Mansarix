@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mahmoud Ansari
 
-<!--
-**Mansarix/Mansarix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack .NET Developer with experience in backend architecture, SaaS systems, microservices, and scalable web applications.  
+Technical author, open-source contributor, and software engineering enthusiast.
 
-Here are some ideas to get you started:
+## Featured Article
+- [Designing Scalable Multi-Tenant SaaS Applications](https://dev.to/mansarix/designing-scalable-multi-tenant-saas-applications-3gap)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Books
+- آموزش جامع طراحی وب
+- آموزش جامع سی شارپ
+- چرخه تولید نرم افزار با مایکروسافت اژور
+
+## Open Source Projects
+- Sisha_UI_Kit
+- Sisha_Code_Generator(
+- Sisha_Core_Arc
+
+## Tech Stack
+- .NET / ASP.NET Core
+- SQL Server
+- Angular
+- Microservices
+- Docker
+- Azure CI/CD
+
+## Connect with Me
+- Website: [MahmoodAnsari.ir](#)
+- GitHub: [drsonador](https://github.com/drsonador)
+- Email: dr.sonador@gmail.com
